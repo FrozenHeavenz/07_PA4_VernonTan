@@ -11,3 +11,19 @@ Integration  testing  is  the  combined  execution  of  two  or  more  classes, 
 Integration testing is conducted by a group of developer
 
 Integration testing can fall under both black and white box
+
+- System Testing
+ 1) What is System Testing?
+ System Testing is the execution of the software in its final configuration, including integration with other software and hardware systems.
+
+ 2) System Testing is conducted by Testers.
+
+ 3) It is type of White Box testing.
+
+- Acceptance Testing
+ 1) What is Acceptance Testing?
+ Acceptance Testing is to evaluate and validate that the system's functionality meets the customer's requirements, standards and business needs before the final delivery.
+
+ 2) Acceptance Testing is conducted by End-Users.
+
+ 3) It is type of Black Box testing.
